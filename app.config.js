@@ -1,6 +1,6 @@
 export default {
     expo: {
-      name: "your-app-name",
+      name: "Gradebook",
       // ... other expo config
       extra: {
         firebaseApiKey: process.env.FIREBASE_API_KEY,
